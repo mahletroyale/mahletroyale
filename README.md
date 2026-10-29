@@ -1,6 +1,4 @@
 
-# 👩🏽‍💻 Welcome to Mahlet's World!
-
 # 👩🏽‍💻 Hey, I’m Mahlet!
 
 ![My personalized coding banner](images/_MG_0671.png)
