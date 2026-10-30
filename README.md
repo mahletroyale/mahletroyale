@@ -1,7 +1,7 @@
 
 # 👩🏽‍💻 Hey, I’m Mahlet!
 
-![My personalized coding banner](images/_MG_0671.png)
+
 
 > Curious by nature. Analytical by training. Creative by design.
 
